@@ -1,0 +1,17 @@
+MANIFEST.in
+README.md
+setup.py
+tr/__init__.py
+tr/char_table.txt
+tr/crnn.bin
+tr/ctpn.bin
+tr/libonnxruntime.so.1.3.0
+tr/libtr.dll
+tr/libtr.so
+tr/onnxruntime.dll
+tr/tr.py
+tr.egg-info/PKG-INFO
+tr.egg-info/SOURCES.txt
+tr.egg-info/dependency_links.txt
+tr.egg-info/requires.txt
+tr.egg-info/top_level.txt
